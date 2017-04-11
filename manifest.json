@@ -1,0 +1,12 @@
+{
+  "name": "Tab Switcher",
+  "version": "0.1",
+  "description": "Switch tabs with ease",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js", "fuzzy.js"]
+  },
+  "omnibox": { "keyword" : "t" },
+  "permissions": ["tabs"],
+  "manifest_version": 2
+}
