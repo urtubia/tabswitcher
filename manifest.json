@@ -8,5 +8,8 @@
   },
   "omnibox": { "keyword" : "t" },
   "permissions": ["tabs"],
-  "manifest_version": 2
+  "manifest_version": 2,
+  "icons": {
+    "128": "tabswitcher-128.png"
+  }
 }
